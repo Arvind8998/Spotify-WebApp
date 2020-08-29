@@ -4,7 +4,7 @@ export const initialState = {
     user:null,
     playlist: [],
     top_artists: null,
-    // token: "BQBl_tQS0Eoq1AkW-_EhmqIOCiXcyxt6iiOH64qOisctgLDLWrsMQOYOdmIDOqMTSmDihzkFeg6V9laZ1eGR8xHiEIqeni50MBzdR4f-FfE58QdnGo_K6Mbe3PBOzGfbricsT6x5HI6ccy-H45KGCbB3nOs-oDA7X6kn6Z4KRBmOQ69rsMdm"
+    token: null
 }
 
 const reducer = (state,action)=>{
